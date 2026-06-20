@@ -1,14 +1,14 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Alexander",
+		"name": "Minoa",
+		"leaderName": "Snake Goddess Priestesses",
+		"adjective": ["Minoan"],
+		"startBias": ["Coast", "Avoid [Desert]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Theodora",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The lilies and the bliss wash over you oh Priestesses, your people have some offerings, your Goddess said, this offering is a proud kingdom of traders and artisans centred on the island of Crete and in it's grandest Palace in Knossos, away from the petty and bloody squabbles of the main Lander around you. In this perpetual Mediterranean bliss and Peace your people blossomed, becoming the most culturally and technologically advanced empire of the age. The tales of your prosperity spread across the isles of the Aegean through your many trade routes and yet somehow you Priestesses remain in the shadows in the Palaces.",
+		"startIntroPart2": "Oh Priestesses, The Minoan empire has long since fallen and King Minos is dead, your Goddesses is gone, yet men continue to sing tales of glory to which your kingdom was the setting without singing also your names. It is time to raise that kingdom anew and reclaim your names! Will you spur your merchants and civilians to rebuild their ships and palaces, reclaiming Crete? Will your palaces and pottery once again be the envy of all the nations around you? Will you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
