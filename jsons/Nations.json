@@ -33,7 +33,7 @@
 		"outerColor": [239, 227, 175],
 		"innerColor": [0, 148, 210],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Hellenic League",
+		"uniqueName": "Prince Of The Lilies",
 		"uniqueText": "All Military Land units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
